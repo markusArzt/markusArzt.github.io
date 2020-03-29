@@ -1,2 +1,2 @@
 # markusArzt.github.io
-Holistische Gesundheit
+Webseite für holistische Gesundheit
