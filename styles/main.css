@@ -39,7 +39,7 @@
 		min-width: 100%;
 		left: 0;
 		top: 0;
-		background: rgba(0, 0, 0, 0.8);
+		background: rgba(0, 0, 0, 0.85);
     }
 
 	.stage {
@@ -56,7 +56,7 @@
     
 	.stage p {
 		color: #fff;
-		font-size: 1.3rem;
+		font-size: 1.0rem;
 		line-height: 1.5;
     }
 	
