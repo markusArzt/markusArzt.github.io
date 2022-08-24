@@ -15,7 +15,7 @@
 /*--- navigation bar ---*/
     
 	.navbar {
-		font-family: Vollkorn;
+		font-family: 'Vollkorn';
 		background:#02631C;
 	}
 	
@@ -60,7 +60,7 @@
 /*--- Content ---*/
 
 	.content {
-		font-family: Vollkorn;
+		font-family: 'Vollkorn';
 		background: white;
 		width: 100%;
 		padding-top: 40px;
@@ -148,7 +148,7 @@
 /*--- Footer ---*/
 	
     .footer {
-		font-family: Vollkorn;
+		font-family: 'Vollkorn';
 		width: 100%;
 		padding-bottom: 40px;
 		padding-left: 10%;
